@@ -21,7 +21,33 @@
 html{
     font-family: sans-serif;
 }
+body {
+    background-color: var(--ms-primary-color);
+}
 
+/* MAIN */
+/* Regole per i blocchi colorati del MAIN */
+.ms_square {
+    height: 100px;
+    width: 100px;
+    margin: 1rem;
+    text-align: center;
+    line-height: 100px;
+    color: var(--ms-text-black);
+    font-weight: bold;
+}
+.ms_bg_1 {
+    background-color: var(--ms-square1-color);
+}
+.ms_bg_2 {
+    background-color: var(--ms-square2-color);
+}
+.ms_bg_3 {
+    background-color: var(--ms-square3-color);
+}
+.ms_bg_4 {
+    background-color: var(--ms-square4-color);
+}
 
 
 /* MEDIA QUERY */
