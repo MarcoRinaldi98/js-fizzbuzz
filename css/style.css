@@ -1,0 +1,51 @@
+/* Style */
+/* CSS reset */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* VARIABILI */
+:root {
+    --ms-primary-color: #083b4c;
+    --ms-square1-color: #1389b2;
+    --ms-square2-color: #0bd6a1;
+    --ms-square3-color: #ffd166;
+    --ms-square4-color: #f0466f;
+    --ms-text-black: #000;
+    --ms-text-white: #fff;
+}
+
+/* Regole CSS generali */
+html{
+    font-family: sans-serif;
+}
+
+
+
+/* MEDIA QUERY */
+/* Breakpoint sm */
+@media screen and (min-width: 576px) {
+    
+}
+
+/* Breakpoint md */
+@media screen and (min-width: 768px) {
+    
+}
+
+/* Breakpoint lg */
+@media screen and (min-width: 992px) {
+    
+}
+
+/* Breakpoint xl */
+@media screen and (min-width: 1200px) {
+    
+}
+
+/* Breakpoint xxl */
+@media screen and (min-width: 1400px) {
+    
+}

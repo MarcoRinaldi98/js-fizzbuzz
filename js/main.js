@@ -1,0 +1,5 @@
+/* 
+JAVASCRIPT
+*/
+
+//definisco le variabili
